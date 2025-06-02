@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ohalloum2003@gmail.com**
 
-- ⚡ Fun fact **I solve problems… then create new ones for job security**
+- ⚡ Fun fact **I believe print("Hello World") is a rite of passage**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
