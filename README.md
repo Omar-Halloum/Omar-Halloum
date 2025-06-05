@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Omar Halloum
 
 
-<h3 align="center">A passionate full stack web developer from Lebanon</h3>
+<h3 align="center">A passionate developer from Lebanon</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-halloum" alt="omar-halloum" /></a> </p>
 
