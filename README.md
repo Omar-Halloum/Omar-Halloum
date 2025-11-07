@@ -1,17 +1,33 @@
 ## 🚀 Omar Halloum
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00E0E5&random=false&width=520&lines=%F0%9F%92%BB+Building+clean+and+scalable+software;%F0%9F%94%A5+Passionate+about+software+engineering;%F0%9F%9A%80+Always+learning+new+technologies" alt="Typing SVG" />
+</a>
 
 
 <h3 align="center">🎓 Incoming Software Engineer | Currently mastering core development principles and seeking collaborative opportunities to build real-world applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-halloum" alt="omar-halloum" /></a> </p>
 
+- 🌍  I'm based in Lebanon
 - 🧠  I'm currently learning software engineering principles
 - ✉️  You can contact me at [ohalloum2003@gmail.com](mailto:ohalloum2003@gmail.com)
 - ⚡ Fun fact **I believe "Hello World" is a rite of passage**
 
+<br />
+
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>  -->
+
+<p>
+  <a href="https://github.com/Omar-Halloum?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IgorWnek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Omar-Halloum?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IgorWnek?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
