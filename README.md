@@ -1,14 +1,12 @@
-## Hi there 👋 I'm Omar Halloum
+## 🚀 Omar Halloum
 
 
-<h3 align="center">A passionate developer from Lebanon</h3>
+<h3 align="center">🎓 Incoming Software Engineer | Currently mastering core development principles and seeking collaborative opportunities to build real-world applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-halloum" alt="omar-halloum" /></a> </p>
 
-- 🌱 I’m currently learning **python**
-
-- 📫 How to reach me **ohalloum2003@gmail.com**
-
+- 🧠  I'm currently learning software engineering principles
+- ✉️  You can contact me at [ohalloum2003@gmail.com](mailto:ohalloum2003@gmail.com)
 - ⚡ Fun fact **I believe print("Hello World") is a rite of passage**
 
 <h3 align="left">Connect with me:</h3>
