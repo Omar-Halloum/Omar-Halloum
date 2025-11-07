@@ -5,6 +5,7 @@
 
 
 <h3 align="center">🎓 Incoming Software Engineer | Currently mastering core development principles and seeking collaborative opportunities to build real-world applications.</h3>
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-halloum" alt="omar-halloum" /></a> </p>
 
